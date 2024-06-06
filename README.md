@@ -7,4 +7,4 @@ What is Recommendation System?
 
 A recommendation system is a technology that suggests items or content to users based on their preferences, past behavior, and similarities with other users. It's like having a knowledgeable friend who knows your tastes and can suggest movies, books, or products you might enjoy. These systems use algorithms to analyze data and make personalized recommendations, helping users discover new things they might like without having to search for them manually.
 
-Fore more details please open Customer Segmentation Recommendation System File 
+Fore more details please open PPT Customer Segmentation Recommendation System File 
